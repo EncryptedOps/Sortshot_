@@ -1,0 +1,36 @@
+{
+  "categories": {
+    "tickets": {
+      "emoji": "\ud83c\udfab",
+      "color": "#FF6B6B",
+      "count": 3
+    },
+    "chats": {
+      "emoji": "\ud83d\udcac",
+      "color": "#4ECDC4",
+      "count": 2
+    },
+    "funny": {
+      "emoji": "\ud83d\ude02",
+      "color": "#FFE66D",
+      "count": 3
+    },
+    "movie": {
+      "emoji": "\ud83c\udfac",
+      "color": "#95E1D3",
+      "count": 1
+    },
+    "others": {
+      "emoji": "\ud83d\udcc1",
+      "color": "#A8E6CF",
+      "count": 1
+    },
+    "ai_smart": {
+      "emoji": "\ud83e\udd16",
+      "color": "#9B59B6",
+      "count": 7
+    }
+  },
+  "last_source": "C:/Users/sidra/Downloads",
+  "last_dest": "C:/Users/sidra/Downloads"
+}
